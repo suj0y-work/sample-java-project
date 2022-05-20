@@ -1,2 +1,2 @@
 \.talismanrc
-\*\.txt
+config.py
