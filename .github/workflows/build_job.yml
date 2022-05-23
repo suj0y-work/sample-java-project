@@ -24,7 +24,7 @@ jobs:
     - name: Trufflehog Scan
       uses: anuragpathak2608/trufflehog-actions-scan@master
       with:
-          scanArguments: "--regex --entropy=True -x trufflehog/exclude-patterns.txt"
+          scanArguments: "--regex --entropy=True -x ./trufflehog/exclude-patterns.txt"
           
     
     - name: Set up JDK 11
