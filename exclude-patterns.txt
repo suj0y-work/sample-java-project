@@ -1,4 +1,0 @@
-\.talismanrc
-config.py
-allow.json
-properties.txt
