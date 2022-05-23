@@ -7,7 +7,8 @@ A spring boot enabled hello world application
 [![Coverage Status](https://coveralls.io/repos/gazgeek/springboot-helloworld/badge.svg)](https://coveralls.io/r/gazgeek/springboot-helloworld)
 
 - Integrate secrets scanning into the CICD pipeline.
-- Demonstrate false positive suppression in trufflehog.
+- Execute basic scan of trufflehog.
+- Execute trufflehog scan with custom regex, allowed patterns, exclude patterns
 
 ## Usage
 
