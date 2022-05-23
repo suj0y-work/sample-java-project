@@ -1,4 +1,0 @@
-{ 
-  "Ignore expired RSA keys": "-----BEGIN RSA PRIVATE KEY-----",
-  "Ignore expired EC keys": "-----BEGIN EC PRIVATE KEY-----"
-}
