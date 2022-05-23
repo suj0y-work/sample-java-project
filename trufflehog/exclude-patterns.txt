@@ -1,4 +1,2 @@
 \.talismanrc
-trufflehog/config.py
-trufflehog/allow.json
-trufflehog/properties.txt
+trufflehog/
